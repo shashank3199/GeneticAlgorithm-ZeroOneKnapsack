@@ -10,9 +10,10 @@ from random import choice, choices
 
 from generate_data import Knapsack
 
-fname = "./values/15_values.json"
-knapsack_object = Knapsack(15, json_fname=fname)
-knapsack_object.toNumpy()
+if __name__ == "__main__":
+    fname = "./values/15_values.json"
+    knapsack_object = Knapsack(15, json_fname=fname)
+    knapsack_object.toNumpy()
 
 
 def get_genome_sequence(code, padding):
