@@ -23,7 +23,7 @@ This project aims to solve the famous 0-1 Knapsack Problem using various version
 - [Installation](#installation--)
 - [Usage](#usage--)
 - [Files in the repository](#files-in-the-repository--)
-- [Bibliography](#bibliography)
+- [Bibliography](#bibliography--)
 
 ## Genetic Algorithm -
 
@@ -273,3 +273,5 @@ This directory contains the json files containing the sample values created and 
 
 - M. Montazeri, R. Kiani and S. S. Rastkhadiv, "A new approach to the Restart Genetic Algorithm to solve zero-one knapsack problem," 2017 IEEE 4th International Conference on Knowledge-Based Engineering and Innovation (KBEI), Tehran, 2017, pp. 0050-0053, doi: 10.1109/KBEI.2017.8324863.
 - Playlist by YarpizProjects, you can check it out [here](https://www.youtube.com/playlist?list=PLgH3sgdvgO4TQagjfi1FmPcdBjIlmk5s9).
+
+[![Developers Tag]( https://img.shields.io/badge/Developer-shashank3199-red.svg )]( https://github.com/shashank3199 )<br>
