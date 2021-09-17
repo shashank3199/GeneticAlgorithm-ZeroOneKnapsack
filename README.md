@@ -6,6 +6,13 @@
 
 This project aims to solve the famous 0-1 Knapsack Problem using various versions of Genetic Algorithm. The various approaches for this are inspired from this [paper](https://ieeexplore.ieee.org/document/8324863).
 
+You can find the complete concept and implementations explained in detail at the following blog posts - 
+
+- [Standard Genetic Algorithm to solve the Zero-One Knapsack Problem](https://faun.pub/genetic-algorithms-to-solve-the-zero-one-knapsack-problem-d38856beaa35?source=rss-e85e3a6012ba------2)
+- [Standard Genetic Algorithm to solve the Zero-One Knapsack Problem: Implementation](https://faun.pub/genetic-algorithms-to-solve-the-zero-one-knapsack-problem-implementation-26c1982f44b3?source=rss-e85e3a6012ba------2)
+- [Modified Genetic Algorithm to solve the Zero-One Knapsack Problem](https://medium.com/mlearning-ai/modified-genetic-algorithm-to-solve-the-zero-one-knapsack-problem-cc2f76d0050f?source=rss-e85e3a6012ba------2)
+- [Modified Genetic Algorithm to solve the Zero-One Knapsack Problem: Implementation](https://medium.com/mlearning-ai/modified-genetic-algorithm-to-solve-the-zero-one-knapsack-problem-implementation-72d85c1c72?source=rss-e85e3a6012ba------2)
+
 ## Index -
 
 - [Introduction](#--geneticalgorithm-zerooneknapsack--)
